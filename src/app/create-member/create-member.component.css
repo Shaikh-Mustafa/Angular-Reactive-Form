@@ -1,0 +1,29 @@
+body{
+    padding: 20px 100px ;
+}
+
+form{
+    background-color: aliceblue;
+    padding : 30px;
+}
+
+legend{
+    margin: 0px auto 40px auto;
+}
+
+label {
+    text-align: right;
+    clear: both;
+    float:left;
+    margin-right:15px;
+}
+
+.form-div{
+    display: flex;
+    justify-content: space-around;
+}
+
+.address{
+    margin-left : 120px;
+}
+
